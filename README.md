@@ -1,4 +1,4 @@
-# MediaOceanShoppingUtility
+ShoppingUtility
 
 Enviornment Setup :
 
